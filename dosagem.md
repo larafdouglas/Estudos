@@ -11,7 +11,7 @@ Hakim diz que o método dsa três equações é também chamado de método Balom
    se o resultado for < 2,5: simplesmente anota o resultado;
    se o resultado for >= 2,5: aí é necessário a utilização de outra expressão:
       $\frac{C}{W}=\frac{fc}{A2} - 0,5$
-5) \[ W_{\text{total}} = C \cdot w_{c} + A \cdot W_{a} \]
+5) $ W_{\text{total}} = C \cdot w_{c} + A \cdot W_{a} $
 
 6) $\frac{W}{1000}+\frac{A}{1000\cdot\rho_{a}+\frac{C}{1000\cdot\rho_{c}}$
 
